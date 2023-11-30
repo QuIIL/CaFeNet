@@ -2,8 +2,9 @@
 by Jaeung Lee, Keunho Byeon, and Jin Tae Kwak.
 
 ## Introduction
-This repository is for our MICCAI 2023 paper [Centroid-aware feature recalibration for cancer grading in pathology images]
-(https://arxiv.org/pdf/2307.13947.pdf).
+This repository is for our MICCAI 2023 paper: \
+Centroid-aware feature recalibration for cancer grading in pathology images 
+[[paper link]](https://arxiv.org/pdf/2307.13947.pdf)
 
 ![Cafe_Net](./data/Workflow.png)
 
@@ -75,6 +76,16 @@ Model weights obtained from training CaFe-Net here:
 If any of the above checkpoints are used, please ensure to cite the corresponding paper.
 
 ## Citation
-If CaFe-Net is useful for your research, please consider citing the following paper:
-```angular2html
+If CaFe-Net is useful for your research, please consider citing the following paper <br />
+
+BibTex entry: <br />
+```
+@inproceedings{lee2023centroid,
+  title={Centroid-aware feature recalibration for cancer grading in pathology images},
+  author={Lee, Jaeung and Byeon, Keunho and Kwak, Jin Tae},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={212--221},
+  year={2023},
+  organization={Springer}
+}
 ```
